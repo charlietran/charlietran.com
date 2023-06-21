@@ -7,7 +7,7 @@ layout: home
 Charlie Tran is a programmer, somewhere in America.
  
 Currently:  
-Leading backend/infra at [Parsec](https://parsec.app) (now part of [Unity](https://unity.com)) and [making games](https://charlietran.itch.io/)
+Leading Engineering at [Parsec](https://parsec.app) (now part of [Unity](https://unity.com)) and [making games](https://charlietran.itch.io/)
 
 Previously:  
 Fall 2018 batch at the [Recurse Center](https://www.recurse.com/)  
