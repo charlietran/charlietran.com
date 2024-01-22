@@ -7,9 +7,10 @@ layout: home
 Charlie Tran is a programmer, somewhere in America.
  
 Currently:  
-Leading backend/infra at [Parsec](https://parsec.app) (now part of [Unity](https://unity.com)) and [making games](https://charlietran.itch.io/)
+Raising two kids and figuring out my next big project
 
 Previously:  
+Director of Engineering at [Parsec](https://parsec.app) and [SyncSketch](https://syncsketch.com/), both part of [Unity](https://unity.com))
 Fall 2018 batch at the [Recurse Center](https://www.recurse.com/)  
 Senior Director of Engineering at [Vimeo](https://vimeo.com)   
 Director of Engineering at [VHX](https://ott.vimeo.com) (now Vimeo OTT)   
