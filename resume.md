@@ -16,11 +16,10 @@ permalink: /resume/
 After the successful exit of the startup that I helped lead, I'm looking for my
 next role that would ideally be a hybrid of senior engineering and leadership.
 
-* 11 years experience as a software developer.
-* 3 years experience as an engineering manager with 4-8 direct reports.
-* Highly proficient in object-oriented programming with Ruby and Javascript,
-  PostgreSQL DB management, and running web apps at scale on cloud
-  infrastructure.
+* 15+ years experience as a software developer.
+* 6+ years experience as an engineering manager with 4-8 direct reports.
+* Highly proficient in object-oriented programming with Golang, Ruby and Javascript,
+  MySQL and PostgreSQL DB management, AWS infrastructure, and generally running web apps at scale
 
 <hr>
 
