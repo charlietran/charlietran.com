@@ -25,8 +25,9 @@ next role that would ideally be a hybrid of senior engineering and leadership.
 <hr>
 
 **Unity ([https://unity.com](https://unity.com))**
-* Joined Unity as Senior Director of Engineering via [Parsec acquisition](https://arstechnica.com/gaming/2021/08/game-engine-meet-game-streaming-unity-acquires-parsec-for-320m)
 *August 2021 - January 2024*
+* Joined Unity as Senior Director of Engineering via [Parsec acquisition](https://arstechnica.com/gaming/2021/08/game-engine-meet-game-streaming-unity-acquires-parsec-for-320m)
+* Led all engineering for Parsec as well as [SyncSketch](https://syncsketch.com/), a web-based media collaboration & annotation tool
 
 **Parsec ([https://parsec.app](https://parsec.app))**
 *May 2019 - August 2021*
