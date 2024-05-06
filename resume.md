@@ -24,8 +24,18 @@ next role that would ideally be a hybrid of senior engineering and leadership.
 
 <hr>
 
+**Unity ([https://unity.com](https://unity.com))**
+* Joined Unity as Senior Director of Engineering via [Parsec acquisition](https://arstechnica.com/gaming/2021/08/game-engine-meet-game-streaming-unity-acquires-parsec-for-320m)
+*August 2021 - January 2024*
+
+**Parsec ([https://parsec.app](https://parsec.app))**
+*May 2019 - August 2021*
+* Joined Parsec as an early engineer to lead the backend and infrastructure engineering efforts for a premium, gaming-focused remote desktop solution
+* Rewrote a prototype NodeJS/Python REST backend to a serverless Golang API REST + WebSockets architecture
+* Scaled from ~100k concurrent realtime users to millions while reducing AWS costs by 50%
+
 **Consulting &amp; independent projects**  
-*November 2017 - present*
+*November 2017 - May 2019*
 * Consulted as a senior engineer for NYC startups. Work included NodeJS REST
   &amp; GraphQL backends, Postgres database admin, customer data migration,
   cloud infrastructure, and recruiting.
