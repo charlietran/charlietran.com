@@ -4,7 +4,7 @@ layout: home
 
 <img title="actual size" id="home-photo" src="/assets/home-photo.jpg" />
 
-Charlie Tran is a programmer, somewhere in America.
+Charlie Tran is a programmer in Saint Louis.
  
 Currently:  
 Co-founder of [Definitely Games](https://def.games), a studio focused on funny and cooperative multiplayer games.
