@@ -21,6 +21,7 @@ plugins:
 
 include:
   - _redirects
+  - .well-known
 exclude:
   - tags
   - Gemfile
